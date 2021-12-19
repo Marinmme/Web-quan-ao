@@ -2,7 +2,7 @@
 	<div class="footer-middle">
 				<div class="container">
 					<div class="col-md-3 footer-middle-in">
-						<a href="index.html">MarinmShop</a>
+						<a href="index.html"><img src="images/log.png" alt=""></a>
 						<p>Suspendisse sed accumsan risus. Curabitur rhoncus, elit vel tincidunt elementum, nunc urna tristique nisi, in interdum libero magna tristique ante. adipiscing varius. Vestibulum dolor lorem.</p>
 					</div>
 					
@@ -10,14 +10,14 @@
 						<h6>Information</h6>
 						<ul class=" in">
 							<li><a href="404.html">About</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
 							<li><a href="#">Returns</a></li>
 							<li><a href="contact.html">Site Map</a></li>
 						</ul>
 						<ul class="in in1">
 							<li><a href="#">Order History</a></li>
-							<li><a href="#">Wish List</a></li>
-							<li><a href="login.php">Login</a></li>
+							<li><a href="wishlist.html">Wish List</a></li>
+							<li><a href="login.html">Login</a></li>
 						</ul>
 						<div class="clearfix"></div>
 					</div>
@@ -51,6 +51,7 @@
 						<li><a href="#"><img src="images/f2.png" class="img-responsive" alt=""></a></li>
 						<li><a href="#"><img src="images/f3.png" class="img-responsive" alt=""></a></li>
 					</ul>
+					<p class="footer-class">&copy; 2016 Shopin. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
 					<div class="clearfix"> </div>
 				</div>
 			</div>
