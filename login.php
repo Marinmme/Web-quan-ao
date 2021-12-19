@@ -12,10 +12,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!---//End-rate---->
 </head>
 <body>
-<!--header-- include("admincp/config/connect.php")>
+<!--header-->
 <?php include('layouts/headertop.php') ?>
-<?php ?>
-<!-banner-->
+<?php include("admincp/config/connect.php")?>
+<!--banner-->
 <div class="banner-top">
 	<div class="container">
 		<h1>Login</h1>
