@@ -40,12 +40,7 @@
 				}elseif($action=='quanlybaiviet' && $query=='Edit'){
 							include("layouts/quanlybaiviet/Edit.php");
 						}
-				elseif($action=='quanlynguoidung' && $query=='User'){
-							include("layouts/quanlynguoidung/User.php");
-						}
-				elseif($action=='quanlynguoidung' && $query=='Edit'){
-							include("layouts/quanlynguoidung/Edit.php");
-						}
+				
 	
 					
 	?> 
