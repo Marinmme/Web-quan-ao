@@ -17,8 +17,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--session_start();
 include("admincp/config/connect.php");-->
 <?php 
-
+session_start();
+include("admincp/config/connect.php");
  include('layouts/headertop.php');
+ 
 
  ?>
 <!--banner-->
