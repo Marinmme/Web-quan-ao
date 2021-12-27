@@ -37,7 +37,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="images/Bra-lux-cam-30-300x300.jpg" class="img-responsive" alt="">
 						<div class="zoom-icon ">
 						<a class="picture" href="images/Bra-lux-cam-30-300x300.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-						<a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+						<a href="single.php"><i class="glyphicon glyphicon-menu-right icon"></i></a>
 						</div>
 						</div>
 						<div class="mid-1">
@@ -70,14 +70,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="images/Bra-lux-nude-30-300x300.jpg" class="img-responsive" alt="">
 						<div class="zoom-icon ">
 						<a class="picture" href="images/Bra-lux-nude-30-300x300.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-						<a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+						<a href="single.php"><i class="glyphicon glyphicon-menu-right icon"></i></a>
 						</div>
 						</div>
 						<div class="mid-1">
 						<div class="women">
 						<div class="women-top">
 							<span>Women</span>
-							<h6><a href="single.html">At vero eos</a></h6>
+							<h6><a href="single.php">At vero eos</a></h6>
 							</div>
 							<div class="img item_add">
 								<a href="#"><img src="images/ca.png" alt=""></a>
@@ -102,14 +102,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<img src="images/Bra-lux-vang-30-300x300.jpg" class="img-responsive" alt="">
 						<div class="zoom-icon ">
 						<a class="picture" href="images/Bra-lux-vang-30-300x300.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-						<a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+						<a href="single.php"><i class="glyphicon glyphicon-menu-right icon"></i></a>
 						</div>
 						</div>
 						<div class="mid-1">
 						<div class="women">
 						<div class="women-top">
 							<span>Men</span>
-							<h6><a href="single.html">Sed ut perspiciati</a></h6>
+							<h6><a href="single.php">Sed ut perspiciati</a></h6>
 							</div>
 							<div class="img item_add">
 								<a href="#"><img src="images/ca.png" alt=""></a>
